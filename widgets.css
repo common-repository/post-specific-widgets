@@ -1,0 +1,39 @@
+#page-sidebars .sidebar-name {
+  margin: 8px 0px;
+  border: 1px solid #c6bb55 !important;
+  box-shadow: 0px 1px 1px #ddd;
+  border-radius: 2px;
+}
+
+#page-sidebars .sidebar-name h3 {
+  background: none !important;
+  border: 0px none !important;
+  color: #6c5c00;
+  margin-bottom: 1px;
+}
+
+.post-specific .sidebar-name {
+  border: 1px solid #c6bb55;
+  color: #6c5c00;
+
+  background-color: #fcfac0;
+  background-image: -ms-linear-gradient(top,#fcfac0,#f2f09c);
+  background-image: -moz-linear-gradient(top,#fcfac0,#f2f09c);
+  background-image: -o-linear-gradient(top,#fcfac0,#f2f09c);
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#fcfac0),to(#f2f09c));
+  background-image: -webkit-linear-gradient(top,#fcfac0,#f2f09c);
+  background-image: linear-gradient(top,#fcfac0,#f2f09c);
+}
+
+.post-specific .widgets-sortables {
+  border-color: #c6bb55;
+  background-color: #ffffef;
+}
+
+.post-specific .sidebar-name-arrow {
+  background-image: url(arrows.png);
+}
+
+.post-specific .widget {
+  border-color: #c6bb55;
+}
